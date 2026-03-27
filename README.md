@@ -45,27 +45,6 @@ This system enables efficient management of patients, doctors, and appointments 
 **Database:**  
 - MySQL  
 
----
-
-## 📂 Project Structure
-
-
-hospital-management/
-├── backend/
-│ ├── controller/
-│ ├── service/
-│ ├── repository/
-│ ├── model/
-│ └── exception/
-│
-├── frontend/
-│ ├── App.js
-│ ├── PatientPage.js
-│ ├── DoctorPage.js
-│ └── App.css
-
-
----
 
 ## ⚙️ Setup Instructions
 
